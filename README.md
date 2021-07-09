@@ -11,8 +11,7 @@
 - CSS
 ## Live Demo
 
-https://raw.githack.com/mbdesigns1989/first-3-sections-for-mobile-website/first-3-sections-for-mobile-web/index.html
-
+https://raw.githack.com/mbdesigns1989/portfolio-project/first-3-sections-portfolio-project/index.html
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
